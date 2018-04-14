@@ -1,5 +1,5 @@
 .navleft{
-	font-size: 16px;
+	font-size: 30px;
 }
 
 .index-block .left-section {
@@ -44,5 +44,7 @@
     display: table;
 }
 
-/* Becauz we use navbar-fix-top */
 body { padding-top: 120px; }
+
+
+
